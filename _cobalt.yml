@@ -1,0 +1,7 @@
+
+site:
+  title: fneddy
+  description: all kind of stuff
+  base_url: https://fneddy.github.io
+posts:
+  rss: rss.xml
